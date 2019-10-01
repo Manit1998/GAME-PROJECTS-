@@ -1,2 +1,2 @@
 # GAME-PROJECTS
-A Simple Python Game using pygame
+A Simple Python Game using pygame ...
